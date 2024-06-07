@@ -1,0 +1,14 @@
+(05/24/2024 17:20:28) Information [MPT Runtime] "Procedure Beginning: Connor_Creep_Comp.000"
+(05/24/2024 17:20:29) Information [Stmgr] "Running test"
+(05/24/2024 17:20:29) Information [MPT Runtime] "Running"
+(05/24/2024 17:22:44) Warning [MPT/Data Limit] "Lower Limit tripped on 'Axial LVDT4(COX4)'."
+(05/24/2024 17:22:44) Warning [MPT/Data Limit] "Data Limit Process Completed"
+(05/24/2024 17:26:17) Warning [MPT/Data Limit] "Lower Limit tripped on 'Axial LVDT2(COX2)'."
+(05/24/2024 17:26:17) Warning [MPT/Data Limit] "Data Limit Process Completed"
+(05/24/2024 17:38:50) Information [MPT Runtime] "Procedure Done"
+(05/24/2024 17:38:50) Information [Stmgr] "Stopped test"
+(05/24/2024 17:38:50) Information [MPT Runtime] "Stopped
+ Running Time:  00:18:21 
+ Channel Counters:
+    Axial -          1  Cycles"
+(05/24/2024 17:40:24) Information [Stmgr] "Saved Parameter Set: 'Connor_Creep_Comp'."

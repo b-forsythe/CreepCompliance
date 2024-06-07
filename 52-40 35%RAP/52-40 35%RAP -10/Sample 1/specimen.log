@@ -1,0 +1,17 @@
+(05/22/2024 12:18:37) Warning [Stmgr] "Interlock 1 -- Software Interlock."
+(05/22/2024 12:18:37) Information [Stmgr] "HPS 1 -- No Pressure."
+(05/22/2024 12:19:06) Information [Stmgr] "HPS 1 -- High Pressure."
+(05/22/2024 12:22:51) Information [MPT Runtime] "Procedure Beginning: Connor_Creep_Comp.000"
+(05/22/2024 12:22:51) Information [MPT Runtime] "Running"
+(05/22/2024 12:22:51) Information [Stmgr] "Running test"
+(05/22/2024 12:23:28) Warning [MPT/Data Limit] "Lower Limit tripped on 'Axial LVDT4(COX4)'."
+(05/22/2024 12:23:28) Warning [MPT/Data Limit] "Data Limit Process Completed"
+(05/22/2024 12:23:48) Warning [MPT/Data Limit] "Lower Limit tripped on 'Axial LVDT2(COX2)'."
+(05/22/2024 12:23:48) Warning [MPT/Data Limit] "Data Limit Process Completed"
+(05/22/2024 12:40:09) Information [MPT Runtime] "Procedure Done"
+(05/22/2024 12:40:09) Information [Stmgr] "Stopped test"
+(05/22/2024 12:40:09) Information [MPT Runtime] "Stopped
+ Running Time:  00:17:18 
+ Channel Counters:
+    Axial -          1  Cycles"
+(05/22/2024 12:40:53) Information [Stmgr] "Saved Parameter Set: 'Connor_Creep_Comp'."
