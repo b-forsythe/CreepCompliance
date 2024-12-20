@@ -1,0 +1,46 @@
+Insufficient data for thickness average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40  25%RAP-20\Sample 1
+
+Insufficient data for load average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40  25%RAP-20\Sample 1
+
+Insufficient data for thickness average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40  25%RAP-20\Sample 2
+
+Insufficient data for load average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40  25%RAP-20\Sample 2
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40  25%RAP-20: LVDT1 out of range (0.0012436893)
+
+Insufficient data for thickness average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40 25%RAP -10\Sample 3
+
+Insufficient data for load average in C:\Users\busin\source\repos\CreepCompliance\52-40 25%RAP\52-40 25%RAP -10\Sample 3
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -10: LVDT1 out of range (-1.9824975e-05)
+
+Creep Compliance for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -10: 0.0007416802106873162
+Poisson's Ratio for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -10: 0.1975608788741891
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -20: LVDT1 out of range (3.3702428e-05)
+
+Creep Compliance for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -20: 0.009467055395414842
+Poisson's Ratio for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -20: 0.10531780081697945
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -30: LVDT1 out of range (-9.5882291e-10)
+
+Insufficient data for thickness average in C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -30\Sample 3
+
+Insufficient data for load average in C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -30\Sample 3
+
+Creep Compliance for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -30: 0.01198432250764065
+Poisson's Ratio for C:\Users\busin\source\repos\CreepCompliance\52-40 35%RAP\52-40 35%RAP -30: 5.994230483502411
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -10: LVDT1 out of range (-9.5882291e-10)
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -10: LVDT1 out of range (-0.00051545043)
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -20: LVDT1 out of range (-2.1807482e-05)
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -20: LVDT1 out of range (-0.00051545043)
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -30: LVDT1 out of range (-1.1894635e-05)
+
+Reject file C:\Users\busin\source\repos\CreepCompliance\52-40 50% Rap\52-40 50%RAP -30: LVDT1 out of range (5.2864571e-06)
+
+
